@@ -1,0 +1,4 @@
+all:
+  hosts:
+    localpi:
+      ansible_host: 10.55.0.1
