@@ -1,0 +1,4 @@
+---
+- hosts: localpi
+  roles:
+    - base
